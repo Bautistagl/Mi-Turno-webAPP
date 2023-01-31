@@ -1,0 +1,8 @@
+POST http://localhost:3000/user
+Content-Type: application/json
+
+{
+    "url": "https://www.youtube.com/watch?v=V33-WvMcB3I",
+    "title": "video de davo222",
+    "description": "esto es un video de davo222"
+}
